@@ -56,7 +56,7 @@ The following is a list of all the MacOS versions released with their years and 
 
 
 
-Combatability
+Compatability
 ==============
 
 Mountain_Lion
