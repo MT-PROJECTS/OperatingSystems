@@ -122,8 +122,8 @@ Combatibility
 - iMac Pro (all models)
 - Mac Pro (Late 2013, plus mid-2010 and mid-2012 models with recommended Metal-capable GPU)
 
-[Catalina compatibility]:
-
+Catalina compatibility:
+-----------------------
 - MacBook (Early 2015 or later)
 - MacBook Air (Mid-2012 or later)
 - MacBook Pro (Mid-2012 or later)
@@ -139,7 +139,7 @@ Current_Version
  - Catalina 
  
 
- 
+
 Problems
 ===========
 
