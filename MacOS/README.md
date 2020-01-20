@@ -7,8 +7,8 @@ Table of Contents
 -----------------
 
   * [Introduction](#intro)
-    * [MinorIssue](#minorissue)
-      * [MinorsecondIssue](#minorsecondissue)
+    //* [MinorIssue](#minorissue)
+      //* [MinorsecondIssue](#minorsecondissue)
   * [Builds](#builds)
   * [Current Version](#currentversion)
   * [Problems](#problems)
@@ -17,44 +17,9 @@ Table of Contents
     
 Introduction
 ===========
- dfsfs
- fsdfsdf
- sfsfsf
- 
- 
- fsdf
- fsd
- sdf
- fs
- f
- sf
- sf
- sf
- sd
- fs
- s
- fs
- f
- this is the fsfsd 
- but his dsd s
- 
-MinorIssue
-----------
-just chekcing isf thsfsd 
-fssfs
-fsf
-sfsf
-sf
-sf
+ MacOS (previously Mac OS X and later OS X) is a series of proprietary graphical operating systems developed and marketed by Apple Inc. since 2001. It is the primary operating system for Apple's Mac computers. Within the market of desktop, laptop and home computers, and by web usage, it is the second most widely used desktop OS, after Microsoft Windows.
 
-MinorsecondIssue
-----------
-just chekcing isf thsfsd 
-fssfs
-fsf
-sfsf
-sf
-sf
+ For more information about MacOS, Apple etc. please continue the reading on: https://en.wikipedia.org/wiki/MacOS
 
 
 
