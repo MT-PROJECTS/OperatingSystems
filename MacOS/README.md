@@ -6,7 +6,7 @@ The file contains information about MacOS, including builds, updates, problems a
 Table of Contents
 -----------------
 
-  * [Introduction](#intro)
+  * [Introduction](#introduction)
     * [MinorIssue](#minorissue)
       * [MinorsecondIssue](#minorsecondissue)
   * [Builds](#builds)
