@@ -7,7 +7,10 @@ Table of Contents
 -----------------
 
   * [Introduction](#introduction)
-  * [Operating_Systems](#operating_systems)
+  * [Builds](#builds)
+  * [Current_Version](#current_version)
+  * [Problems](#problems)
+
   <!--
   * [Compatability](#compatability)
   	* [Mountain_Lion](#mountain_lion)
@@ -19,9 +22,7 @@ Table of Contents
   	* [Mojave](#mojave)
   	* [Catalina](#catalina)
   -->
-  * [Current_Version](#current_version)
-  * [Problems](#problems)
-
+ 
 
 
 Introduction
@@ -31,9 +32,8 @@ Introduction
  For more information about Windows, Microsoft etc. please continue the reading on: https://en.wikipedia.org/wiki/Microsoft_Windows
 
 
-
-Operating_Systems
-==================
+Builds
+=======
 
 The following is a list of all the Windows Operating Systems released with their years. 
 
