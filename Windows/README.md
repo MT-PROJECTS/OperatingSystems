@@ -37,7 +37,7 @@ Builds
 
 The following is a list of all the Windows Operating Systems released with their years. 
 
-Operating System     		  Year
+Operating System     		  
 -------------------------------------
 - Windows 1.0 		 		- 1985
 - Windows 2.0  		 		- 1987
@@ -57,7 +57,7 @@ Operating System     		  Year
 - Windows 8 		 		- 2012
 - Windows 8.1 		 		- 2013
 - Windows 10 		 		- 2015 
-- Windows 10X (Tablts)		- 2020 
+- Windows 10X (Tablets)		- 2020 
 
 <!--
 Compatability
