@@ -9,6 +9,7 @@ Table of Contents
   * [Introduction](#introduction)
   * [Builds](#builds)
   * [Compatability](#compatability)
+  	* [Mountain_Lion](#mountain_lion)
   * [Current_Version](#current_version)
   * [Problems](#problems)
 
@@ -48,10 +49,11 @@ The following is a list of all the MacOS versions released with their years and 
 
 
 
-Combatibility
+Combatability
 ==============
 
-[Mountain Lion compatibility]:
+Mountain_Lion
+--------------
 
 - iMac (Mid-2007 or newer)
 - MacBook (Late 2008 Aluminum, or Early 2009 or newer)
