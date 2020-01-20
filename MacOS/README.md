@@ -7,15 +7,15 @@ Table of Contents
 -----------------
 
   * [Introduction](#intro)
-    //* [MinorIssue](#minorissue)
-      //* [MinorsecondIssue](#minorsecondissue)
+    * [MinorIssue](#minorissue)
+      * [MinorsecondIssue](#minorsecondissue)
   * [Builds](#builds)
   * [Current Version](#currentversion)
   * [Problems](#problems)
     
     
     
-Introduction
+
 ===========
  MacOS (previously Mac OS X and later OS X) is a series of proprietary graphical operating systems developed and marketed by Apple Inc. since 2001. It is the primary operating system for Apple's Mac computers. Within the market of desktop, laptop and home computers, and by web usage, it is the second most widely used desktop OS, after Microsoft Windows.
 
@@ -144,7 +144,7 @@ Introduction
  wfw
  ef
  
- ThirdIssue
+Introduction
 ===========
  dfsfs
  fsdfsdf
