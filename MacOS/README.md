@@ -10,7 +10,7 @@ Table of Contents
     * [MinorIssue](#minorissue)
       * [MinorsecondIssue](#minorsecondissue)
   * [Builds](#builds)
-  * [Current Version](#currentversion)
+  * [Current Version](#current version)
   * [Problems](#problems)
     
     
