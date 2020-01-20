@@ -15,16 +15,15 @@ Table of Contents
     
     
     
-
+Introduction
 ===========
  MacOS (previously Mac OS X and later OS X) is a series of proprietary graphical operating systems developed and marketed by Apple Inc. since 2001. It is the primary operating system for Apple's Mac computers. Within the market of desktop, laptop and home computers, and by web usage, it is the second most widely used desktop OS, after Microsoft Windows.
 
  For more information about MacOS, Apple etc. please continue the reading on: https://en.wikipedia.org/wiki/MacOS
 
 
-
- FourthIssue
-===========
+Builds
+=======
  dfsfs
  fsdfsdf
  sfsfsf
@@ -63,7 +62,7 @@ Table of Contents
  sf
  f
  
- SecondIssue
+Current Version
 ===========
  dfsfs
  fsdfsdf
@@ -144,7 +143,7 @@ Table of Contents
  wfw
  ef
  
-Introduction
+Problems
 ===========
  dfsfs
  fsdfsdf
