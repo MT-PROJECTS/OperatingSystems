@@ -37,26 +37,27 @@ Builds
 
 The following is a list of all the Windows Operating Systems released with their years. 
 
-- Windows 1.0 (1985)
-- Windows 2.0 (1987)
-- Windows 3.0 (1990)
-- Windows 3.1 (1992)
-- Windows NT 3.1 (1993)
-- Windows NT 3.5 (1994)
-- Windows NT 3.51 (1995)
-- Windows 95 (1995)
-- Windows NT 4.0 (1996)
-- Windows 98 (1998)
-- Windows 2000 (2000)
-- Windows ME (2000)
-- Windows XP (2001)
-- Windows Vista (2006)
-- Windows 7 (2009)
-- Windows 8 (2012)
-- Windows 8.1 (2013)
-- Windows 10 (2015)
-- Windows 10X (2020) (only for Tablets)
-
+Operating System     		  Year
+-------------------------------------
+- Windows 1.0 		 		- 1985
+- Windows 2.0  		 		- 1987
+- Windows 3.0 		 		- 1990
+- Windows 3.1 		 		- 1992
+- Windows NT 3.1	 		- 1993
+- Windows NT 3.5     		- 1994
+- Windows NT 3.51 	 		- 1995
+- Windows 95 		 		- 1995
+- Windows NT 4.0 	 		- 1996
+- Windows 98 		 		- 1998
+- Windows 2000 		 		- 2000
+- Windows ME 		 		- 2000
+- Windows XP 		 		- 2001
+- Windows Vista 	 		- 2006
+- Windows 7 		 		- 2009
+- Windows 8 		 		- 2012
+- Windows 8.1 		 		- 2013
+- Windows 10 		 		- 2015 
+- Windows 10X (Tablts)		- 2020 
 
 <!--
 Compatability
