@@ -10,6 +10,13 @@ Table of Contents
   * [Builds](#builds)
   * [Compatability](#compatability)
   	* [Mountain_Lion](#mountain_lion)
+  	* [Mavericks](#mavericks)
+  	* [Yosemite](#yosemite)
+  	* [El_Capitain](#el_capitain)
+  	* [Sierra](#sierra)
+  	* [High_Sierra](#high_sierra)
+  	* [Mojave](#mojave)
+  	* [Catalina](#catalina)
   * [Current_Version](#current_version)
   * [Problems](#problems)
 
@@ -34,7 +41,7 @@ The following is a list of all the MacOS versions released with their years and 
 - OS X 10.2: Jaguar - 24 August 2002
 - OS X 10.3 Panther (Pinot) - 24 October 2003
 - OS X 10.4 Tiger (Merlot) - 29 April 2005
-- [OS X 10.4.4 Tiger (Chardonnay)]
+- OS X 10.4.4 Tiger (Chardonnay)
 - OS X 10.5 Leopard (Chablis) - 26 October 2007
 - OS X 10.6 Snow Leopard - 28 August 2009
 - OS X 10.7 Lion (Barolo) - 20 July 2011
@@ -53,7 +60,7 @@ Combatability
 ==============
 
 Mountain_Lion
---------------
+--------------	
 
 - iMac (Mid-2007 or newer)
 - MacBook (Late 2008 Aluminum, or Early 2009 or newer)
@@ -63,7 +70,8 @@ Mountain_Lion
 - Mac Pro (Early 2008 or newer)
 - Xserve (Early 2009)
 
-[Mavericks compatibility]:
+Mavericks
+--------------	
 
 - iMac (Mid 2007 or newer)
 - MacBook (Late 2008 Aluminum, or Early 2009 or newer)
@@ -73,7 +81,8 @@ Mountain_Lion
 - Mac mini (Early 2009 or newer)
 - Mac Pro (Early 2008 or newer)
 
-[Yosemite compatibility]:
+Yosemite
+---------
 
 - iMac (Mid-2007 or later)
 - MacBook (13" Late 2008 Aluminum, Early 2009 or later)
@@ -85,7 +94,8 @@ Mountain_Lion
 - Mac Pro (Early 2008 or later)
 - Xserve (Early 2009)
 
-[El Capitan compatibility]:
+El_Capitain
+------------
 
 - MacBook (Early 2015)
 - MacBook (Late 2008 Aluminium, or Early 2009 or newer)
@@ -96,7 +106,8 @@ Mountain_Lion
 - Mac Pro (Early 2008 or newer)
 - Xserve (Early 2009)
 
-[Sierra compatibility]:
+Sierra
+-------
 
 - MacBook (Late 2009 or newer)
 - MacBook Pro (Mid 2010 or newer)
@@ -105,7 +116,8 @@ Mountain_Lion
 - iMac (Late 2009 or newer)
 - Mac Pro (Mid 2010 or newer)
 
-[High Sierra compatibility]:
+High_Sierra
+-------------
 
 - MacBook (Late 2009 or newer)
 - MacBook Pro (Mid 2010 or newer)
@@ -114,7 +126,8 @@ Mountain_Lion
 - iMac (Late 2009 or newer)
 - Mac Pro (Mid 2010 or newer)
 
-[Mojave compatibility]:
+Mojave
+-------
 
 - MacBook (Early 2015 or newer)
 - MacBook Air (Mid 2012 or newer)
@@ -124,8 +137,9 @@ Mountain_Lion
 - iMac Pro (all models)
 - Mac Pro (Late 2013, plus mid-2010 and mid-2012 models with recommended Metal-capable GPU)
 
-Catalina compatibility:
+Catalina
 -----------------------
+
 - MacBook (Early 2015 or later)
 - MacBook Air (Mid-2012 or later)
 - MacBook Pro (Mid-2012 or later)
